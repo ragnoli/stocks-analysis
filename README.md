@@ -48,11 +48,18 @@ Finally, to bring the results to the All Stock Analysis sheet, we first activtat
    
    
 ### Execution time
-Refactoring the code to automate tasks decrease the chance of errors and reduce the time needed to run the analyses.
 Creating arrays for the volume, starting and ending price made the code more efficient and fast.
 
+# Summary
 
+### Refactoring a code
+Refactoring is usually used to improve the design and structure, while preserving its functionality.
+The advantage of refactoring a code is rewrite codes to automate tasks, decrease the chance of errors and reduce the time needed to run the analyses. Also, after refactoring, the code is fresher, easier to understand or read, less complex and easier to maintain.
+The only desadgantage os recaftoring, it's may be considered time consuming.
 
+### Refactoring Stock Analysis Project
+The advantage of refactoring the All Stock Analysis macro is time eficiance of the code and how much faster the code can run compared to the original VBA scrpit.
+The disadvantage is related to the reliance on the file spreadsheet formats, since it's organized by ticker, therefore, if the user include a desorganized list to be analized, the refactored code would nt work.
 
 
 
