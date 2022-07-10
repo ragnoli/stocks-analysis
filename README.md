@@ -48,7 +48,7 @@ Finally, to bring the results to the All Stock Analysis sheet, we first activtat
    
    
 ### Execution time
-Refactoring the code to automate tasks decreased the chance of errors and reduced the time needed to run the analyses.
+Refactoring the code to automate tasks decrease the chance of errors and reduce the time needed to run the analyses.
 Creating arrays for the volume, starting and ending price made the code more efficient and fast.
 
 
