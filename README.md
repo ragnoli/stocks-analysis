@@ -50,6 +50,12 @@ Finally, to bring the results to the All Stock Analysis sheet, we first activtat
 ### Execution time
 Creating arrays for the volume, starting and ending price made the code more efficient and fast.
 
+
+![This is an image](VBA_Challenge_2017.JPG)
+
+
+
+
 # Summary
 
 ### Refactoring a code
